@@ -102,7 +102,7 @@ PTM quantification and statistical testing were performed upstream (JUMPptm + li
 
 ## Requirements
 
-**R version:** ≥ 4.0
+**R version:** ≥ 4.5.1
 
 **CRAN packages:**
 ```r
