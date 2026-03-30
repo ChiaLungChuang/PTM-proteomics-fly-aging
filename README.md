@@ -87,6 +87,12 @@ Two sets of UpSet plots showing the intersection of significantly regulated PTM 
 
 Each PTM type generates a separate PDF with bar annotations showing intersection sizes and right-side bars showing set sizes. Summary CSVs listing the Gene_Modsite identifiers per intersection column are also exported.
 
+<p align="center">
+  <img src="figures/Upsets.webp" width="800">
+  <img src="figures/Volcano.webp" width="800">
+</p>
+
+
 ---
 
 ## Statistical Approach
